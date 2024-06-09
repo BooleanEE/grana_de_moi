@@ -1,6 +1,6 @@
 # Software Engineering II
 ## UFMG 2024/01 
-Software Engineering II - Practical Assignment 5&6
+Software Engineering II - Practical Assignment 5&6  
 Bernardo Franco Tormin
 
 ## System explanation
