@@ -83,13 +83,13 @@ class FinancialSummary:
         for incomes in self.finance_json_loaded_file[self.year][self.month]['Income']:
             current_income_value = self.finance_json_loaded_file[self.year][self.month]['Income'][incomes]
             representation_of_current_income = round(current_income_value/self.total_income, 4)
-            self.income_representation_by_type.update({incomes: f"{representation_of_current_income:.4f}"})
+            self.income_representation_by_type.update({incomes: representation_of_current_income})
 
     def evaluate_expenses_representation_by_type_for_selected_year_and_month(self):
         for expenses in self.finance_json_loaded_file[self.year][self.month]['Expenses']:
             current_expense_value = self.finance_json_loaded_file[self.year][self.month]['Expenses'][expenses]
             representation_of_current_expense = round(current_expense_value/self.total_expenses, 4)
-            self.expenses_representation_by_type.update({expenses: f"{representation_of_current_expense:.4f}"})
+            self.expenses_representation_by_type.update({expenses: representation_of_current_expense})
 
     def get_most_significant_income_for_selected_year_and_month(self):
         self.most_significant_income = max(self.income_representation_by_type, key=self.income_representation_by_type.get)
