@@ -36,3 +36,10 @@ When using **make save** and **make install**, make sure that you are on you vir
 3. You must create a virtual environment with Python 3.10.14  and chose it to use as your interpreter (Ctrl+Shift+P -- Python Interpreter) for running the application;  
 4. You must get inside your new virtual environment and use the command **make install** to install all dependecies necessaries to run the code;  
 5. If the make command is not working, you can install it manually or using the line **pip install -r requirements.txt**. 
+
+## Running the software
+
+- Use the application using the arguments **--summary**, **--month**, **--year**, **--json_path**;
+- The expected output will be a summary of a financial information about the income and expense for the selected year and month;
+- An example of use case can be done by using the command **make run**.
+
