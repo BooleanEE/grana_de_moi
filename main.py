@@ -1,7 +1,8 @@
-import argparse
 import sys
 
+from financial_summary import FinancialSummary
 from util.args import Arguments
+
 
 def main():
     try:
@@ -23,7 +24,7 @@ def main():
             if args.year == None:
                 raise TypeError('No --year argument provided. Use --h for more information.')
 
-                
+            FinancialSummary(month=args.month,year=args.year,json_path=args.json_path)
 
 
         if not args.summary:
