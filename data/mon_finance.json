@@ -1,0 +1,380 @@
+{
+    "2023": {
+        "January": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 200.00
+            },
+            "Expenses": {
+                "Clothing": 150.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 100.00,
+                "Food": 600.00,
+                "Gifts": 50.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 100.00,
+                "Personal": 150.00,
+                "Savings": 400.00,
+                "Supplies": 100.00,
+                "Transportation": 300.00,
+                "Utilities": 200.00
+            }
+        },
+        "February": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 250.00
+            },
+            "Expenses": {
+                "Clothing": 150.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 100.00,
+                "Food": 600.00,
+                "Gifts": 50.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 120.00,
+                "Personal": 150.00,
+                "Savings": 400.00,
+                "Supplies": 120.00,
+                "Transportation": 300.00,
+                "Utilities": 220.00
+            }
+        },
+        "March": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 220.00
+            },
+            "Expenses": {
+                "Clothing": 160.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 110.00,
+                "Food": 620.00,
+                "Gifts": 50.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 110.00,
+                "Personal": 160.00,
+                "Savings": 400.00,
+                "Supplies": 110.00,
+                "Transportation": 310.00,
+                "Utilities": 210.00
+            }
+        },
+        "April": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 230.00
+            },
+            "Expenses": {
+                "Clothing": 150.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 120.00,
+                "Food": 610.00,
+                "Gifts": 60.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 120.00,
+                "Personal": 170.00,
+                "Savings": 400.00,
+                "Supplies": 130.00,
+                "Transportation": 320.00,
+                "Utilities": 220.00
+            }
+        },
+        "May": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 240.00
+            },
+            "Expenses": {
+                "Clothing": 160.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 110.00,
+                "Food": 630.00,
+                "Gifts": 50.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 130.00,
+                "Personal": 160.00,
+                "Savings": 400.00,
+                "Supplies": 120.00,
+                "Transportation": 330.00,
+                "Utilities": 230.00
+            }
+        },
+        "June": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 210.00
+            },
+            "Expenses": {
+                "Clothing": 140.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 100.00,
+                "Food": 620.00,
+                "Gifts": 60.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 120.00,
+                "Personal": 150.00,
+                "Savings": 400.00,
+                "Supplies": 110.00,
+                "Transportation": 310.00,
+                "Utilities": 210.00
+            }
+        },
+        "July": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 220.00
+            },
+            "Expenses": {
+                "Clothing": 150.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 120.00,
+                "Food": 600.00,
+                "Gifts": 70.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 130.00,
+                "Personal": 140.00,
+                "Savings": 400.00,
+                "Supplies": 120.00,
+                "Transportation": 320.00,
+                "Utilities": 220.00
+            }
+        },
+        "August": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 230.00
+            },
+            "Expenses": {
+                "Clothing": 160.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 130.00,
+                "Food": 610.00,
+                "Gifts": 80.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 140.00,
+                "Personal": 150.00,
+                "Savings": 400.00,
+                "Supplies": 130.00,
+                "Transportation": 330.00,
+                "Utilities": 230.00
+            }
+        },
+        "September": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 240.00
+            },
+            "Expenses": {
+                "Clothing": 170.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 140.00,
+                "Food": 620.00,
+                "Gifts": 90.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 150.00,
+                "Personal": 160.00,
+                "Savings": 400.00,
+                "Supplies": 140.00,
+                "Transportation": 340.00,
+                "Utilities": 240.00
+            }
+        },
+        "October": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 250.00
+            },
+            "Expenses": {
+                "Clothing": 180.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 150.00,
+                "Food": 630.00,
+                "Gifts": 100.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 160.00,
+                "Personal": 170.00,
+                "Savings": 400.00,
+                "Supplies": 150.00,
+                "Transportation": 350.00,
+                "Utilities": 250.00
+            }
+        },
+        "November": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 260.00
+            },
+            "Expenses": {
+                "Clothing": 190.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 160.00,
+                "Food": 640.00,
+                "Gifts": 110.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 170.00,
+                "Personal": 180.00,
+                "Savings": 400.00,
+                "Supplies": 160.00,
+                "Transportation": 360.00,
+                "Utilities": 260.00
+            }
+        },
+        "December": {
+            "Income": {
+                "Salary": 5000.00,
+                "Investments": 270.00
+            },
+            "Expenses": {
+                "Clothing": 200.00,
+                "Debt": 300.00,
+                "Education": 500.00,
+                "Entertainment": 170.00,
+                "Food": 650.00,
+                "Gifts": 120.00,
+                "Housing": 1000.00,
+                "Insurance": 200.00,
+                "Medical": 180.00,
+                "Personal": 190.00,
+                "Savings": 400.00,
+                "Supplies": 170.00,
+                "Transportation": 370.00,
+                "Utilities": 270.00
+            }
+        }
+    },
+    "2024": {
+        "January": {
+            "Income": {
+                "Salary": 5100.00,
+                "Investments": 280.00
+            },
+            "Expenses": {
+                "Clothing": 210.00,
+                "Debt": 300.00,
+                "Education": 510.00,
+                "Entertainment": 180.00,
+                "Food": 660.00,
+                "Gifts": 130.00,
+                "Housing": 1010.00,
+                "Insurance": 210.00,
+                "Medical": 190.00,
+                "Personal": 200.00,
+                "Savings": 410.00,
+                "Supplies": 180.00,
+                "Transportation": 380.00,
+                "Utilities": 280.00
+            }
+        },
+        "February": {
+            "Income": {
+                "Salary": 5100.00,
+                "Investments": 290.00
+            },
+            "Expenses": {
+                "Clothing": 220.00,
+                "Debt": 300.00,
+                "Education": 510.00,
+                "Entertainment": 190.00,
+                "Food": 670.00,
+                "Gifts": 140.00,
+                "Housing": 1010.00,
+                "Insurance": 210.00,
+                "Medical": 200.00,
+                "Personal": 210.00,
+                "Savings": 420.00,
+                "Supplies": 190.00,
+                "Transportation": 390.00,
+                "Utilities": 290.00
+            }
+        },
+        "March": {
+            "Income": {
+                "Salary": 5100.00,
+                "Investments": 300.00
+            },
+            "Expenses": {
+                "Clothing": 230.00,
+                "Debt": 300.00,
+                "Education": 510.00,
+                "Entertainment": 200.00,
+                "Food": 680.00,
+                "Gifts": 150.00,
+                "Housing": 1010.00,
+                "Insurance": 210.00,
+                "Medical": 210.00,
+                "Personal": 220.00,
+                "Savings": 430.00,
+                "Supplies": 200.00,
+                "Transportation": 400.00,
+                "Utilities": 300.00
+            }
+        },
+        "April": {
+            "Income": {
+                "Salary": 5100.00,
+                "Investments": 310.00
+            },
+            "Expenses": {
+                "Clothing": 240.00,
+                "Debt": 300.00,
+                "Education": 510.00,
+                "Entertainment": 210.00,
+                "Food": 690.00,
+                "Gifts": 160.00,
+                "Housing": 1010.00,
+                "Insurance": 210.00,
+                "Medical": 220.00,
+                "Personal": 230.00,
+                "Savings": 440.00,
+                "Supplies": 210.00,
+                "Transportation": 410.00,
+                "Utilities": 310.00
+            }
+        },
+        "May": {
+            "Income": {
+                "Salary": 5100.00,
+                "Investments": 320.00
+            },
+            "Expenses": {
+                "Clothing": 250.00,
+                "Debt": 300.00,
+                "Education": 510.00,
+                "Entertainment": 220.00,
+                "Food": 700.00,
+                "Gifts": 170.00,
+                "Housing": 1010.00,
+                "Insurance": 210.00,
+                "Medical": 230.00,
+                "Personal": 240.00,
+                "Savings": 450.00,
+                "Supplies": 220.00,
+                "Transportation": 420.00,
+                "Utilities": 320.00
+            }
+        }
+    }
+}
